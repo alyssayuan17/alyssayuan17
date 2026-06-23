@@ -1,4 +1,11 @@
-## Hi there 👋
+## hello, i'm alyssa  ദ്ദി(˃ ᵕ ˂ ദ്ദി)
+- swe @ scotiabank
+- cs @ university of waterloo
+
+let's connect!
+ᯓ 💌 email: ayyuan@uwaterloo.ca
+ᯓ 🌐 linkedin: www.linkedin.com/in/yuanalyssa/
+ᯓ 💻 devpost: https://devpost.com/alyssa-yuan
 
 <!--
 **alyssayuan17/alyssayuan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
