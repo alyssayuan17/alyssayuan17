@@ -1,8 +1,8 @@
-## hello, i'm alyssa  ദ്ദി(˃ ᵕ ˂ ദ്ദി)
-- swe @ scotiabank
+## hi, i'm alyssa   ദ്ദി(˃ ᵕ ˂ ദ്ദി)
+- swe @ scotiabank, currently building modernized web digital banking platform + decomissioning sol!
 - cs @ university of waterloo
 
-let's connect!
+**let's connect!**
 
   ᯓ 💌 email: ayyuan@uwaterloo.ca
   
