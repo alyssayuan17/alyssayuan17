@@ -3,8 +3,11 @@
 - cs @ university of waterloo
 
 let's connect!
+
   ᯓ 💌 email: ayyuan@uwaterloo.ca
+  
   ᯓ 🌐 linkedin: www.linkedin.com/in/yuanalyssa/
+  
   ᯓ 💻 devpost: https://devpost.com/alyssa-yuan
 
 <!--
