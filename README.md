@@ -1,5 +1,5 @@
 ## hi, i'm alyssa   ദ്ദി(˃ ᵕ ˂ ദ്ദി)
-- swe @ scotiabank, currently building modernized web digital banking platform + decomissioning sol!
+- swe @ scotiabank, currently building modernized web digital banking platform + decomissioning legacy sol!
 - cs @ university of waterloo
 
 **let's connect!**
