@@ -1,4 +1,4 @@
-## hi, i'm alyssa   ദ്ദി(˃ ᵕ ˂ ദ്ദി)
+## hi, i'm alyssa!
 - cs @ university of waterloo
 - prev. swe @ scotiabank -> modernized web digital retail banking platform
 
